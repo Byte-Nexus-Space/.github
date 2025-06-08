@@ -1,3 +1,4 @@
+![169CIN~1](https://github.com/user-attachments/assets/94e916fa-ceeb-4723-a4a7-0084eda36ed9)
 # Byte Nexus Space 🚀
 
 **Byte Nexus Space** is a futuristic open-source collective focused on building intelligent, scalable, and impactful technology for the modern world. We bring together developers, designers, and innovators to collaborate on projects at the intersection of:
